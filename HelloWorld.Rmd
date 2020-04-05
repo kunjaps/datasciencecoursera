@@ -1,0 +1,9 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{python python.reticulate=FALSE, echo = FALSE}
+print("This is a markdown file")
+```
+
