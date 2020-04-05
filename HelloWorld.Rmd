@@ -1,4 +1,0 @@
-
-```{python python.reticulate=FALSE, echo = FALSE}
-print("This is a markdown file")
-```
